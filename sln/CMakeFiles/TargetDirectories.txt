@@ -1,0 +1,3 @@
+C:/Users/ilya_/OneDrive/Рабочий стол/ANTLR2/parser/sln/CMakeFiles/parser.dir
+C:/Users/ilya_/OneDrive/Рабочий стол/ANTLR2/parser/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/ilya_/OneDrive/Рабочий стол/ANTLR2/parser/sln/CMakeFiles/ZERO_CHECK.dir

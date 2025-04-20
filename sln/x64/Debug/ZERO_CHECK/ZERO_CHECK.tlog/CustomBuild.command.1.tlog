@@ -1,0 +1,10 @@
+^C:\USERS\ILYA_\ONEDRIVE\РАБОЧИЙ СТОЛ\ANTLR2\PARSER\SLN\CMAKEFILES\24CB2A3D7ED53FF313FF5EFD9C4E5745\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/ilya_/OneDrive/Рабочий стол/ANTLR2/parser" "-BC:/Users/ilya_/OneDrive/Рабочий стол/ANTLR2/parser/sln" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ilya_/OneDrive/Рабочий стол/ANTLR2/parser/sln/samples_antlr4_2.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\calcBaseVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\calcLexer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\calcParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\calcVisitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\CalcUserVisitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\calcBaseVisitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\calcLexer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\calcParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\calcVisitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ilya_\OneDrive\Рабочий стол\ANTLR2\parser\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EFF0C249-70A4-3EB1-9D82-F891EF549B08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FF489C16-1ED8-39DA-B249-75DF90D1ECDB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
