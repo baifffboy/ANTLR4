@@ -8,3 +8,6 @@ https://www.antlr.org/download.html
 2. написать грамматику (файл calc.g4)
 3.  при помощи команды в anaconda promt проверить строится ли дерево разбора antlr4-parse calc.g4 prog -gui
 4.  при помощи команды собрать в папку parser все составные файлы парсера antl4 -Dlanguage=cpp -no-listener -visitor -o parser calc.g4
+
+______________________
+Файл .g4 - грамматика парсера antlr4
