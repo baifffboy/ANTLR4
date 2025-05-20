@@ -3,3 +3,8 @@
 Ссылка на сайт для скачивания zip файла парсера:
 https://www.antlr.org/download.html
 Скачивать:  antlr4-cpp-runtime-4.13.2-source.zip (.h, .cpp)
+После скачивания:
+1. при помощи си мейк файла собрать проект парсера, собрать проект, собрать INSTALL,
+2. написать грамматику (файл calc.g4)
+3.  при помощи команды в anaconda promt проверить строится ли дерево разбора antlr4-parse calc.g4 prog -gui
+4.  при помощи команды собрать в папку parser все составные файлы парсера antl4 -Dlanguage=cpp -no-listener -visitor -o parser calc.g4
